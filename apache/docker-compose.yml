@@ -1,0 +1,30 @@
+version: "3.7"
+
+services:
+  apache:
+    image: wodby/apache
+    environment:
+      APACHE_LOG_LEVEL: debug
+      APACHE_SERVER_ROOT: /var/www/html/web
+      APACHE_MPM_EVENT_START_SERVERS: 5
+    networks:
+      - default
+    ports:
+      - "8080:80"
+    expose:
+      - "80"
+    volumes:
+      - ./json:/var/www/html/web
+    labels:
+      - "traefik.http.routers.test_nginx.rule=Host(`test.localhost`)"
+
+  traefik:
+    image: traefik:v2.0
+    container_name: "test_traefik"
+    command: --api.insecure=true --providers.docker
+    ports:
+    - '8000:80'
+#    - '8080:8080' # Dashboard
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+

@@ -45,21 +45,14 @@
     }
     mymap.on('click', onMapClick);
 
-// https://www.trap.nz/static/nz-summary-map2.html
-// https://www.trap.nz/static/nz-summary-map.html
-// maybe try this url?
 // https://trap.nz/project/trap_overview.json
 
-    const request = new Request('https://trap.nz/project/trap_overview.json');
+    const request = new Request('testdata.json');
     console.log(request)
 
-    const myInit = {
-      mode: 'no-cors',
-      credentials: 'include'
-    }
-
-    fetch(request, myInit)
+    fetch(request)
       .then(response => {
+        console.log("_____________________response: ", response);
         if (response.status === 200) {
           return response.json();
         } else {

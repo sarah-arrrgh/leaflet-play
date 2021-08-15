@@ -1,0 +1,1457 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94544483721,
+          -40.993072754209
+        ]
+      },
+      "properties": {
+        "name": "PT01",
+        "title": "<a href=\"/node/1706199\">PT01</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706199,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94437295943,
+          -40.99426852788
+        ]
+      },
+      "properties": {
+        "name": "PT02",
+        "title": "<a href=\"/node/1706207\">PT02</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706207,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1618441200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94344692677,
+          -40.995571511201
+        ]
+      },
+      "properties": {
+        "name": "PT03",
+        "title": "<a href=\"/node/1706226\">PT03</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706226,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94234923273,
+          -40.997240375305
+        ]
+      },
+      "properties": {
+        "name": "PT04",
+        "title": "<a href=\"/node/1706229\">PT04</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706229,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94427405298,
+          -40.996025739951
+        ]
+      },
+      "properties": {
+        "name": "PT05",
+        "title": "<a href=\"/node/1706230\">PT05</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706230,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1620778500,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94570132345,
+          -40.994825759481
+        ]
+      },
+      "properties": {
+        "name": "PT06",
+        "title": "<a href=\"/node/1706232\">PT06</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706232,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94630783796,
+          -40.993464557367
+        ]
+      },
+      "properties": {
+        "name": "PT07",
+        "title": "<a href=\"/node/1706233\">PT07</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706233,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94966864586,
+          -40.98806198567
+        ]
+      },
+      "properties": {
+        "name": "ST01",
+        "title": "<a href=\"/node/1706237\">ST01</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706237,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1617066900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94798723608,
+          -40.990036754403
+        ]
+      },
+      "properties": {
+        "name": "ST02",
+        "title": "<a href=\"/node/1706248\">ST02</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706248,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1617066900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94660858065,
+          -40.991747261753
+        ]
+      },
+      "properties": {
+        "name": "ST06",
+        "title": "<a href=\"/node/1706249\">ST06</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706249,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94778305292,
+          -40.99230780451
+        ]
+      },
+      "properties": {
+        "name": "ST03",
+        "title": "<a href=\"/node/1706250\">ST03</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706250,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1617066900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94944300503,
+          -40.9905937687
+        ]
+      },
+      "properties": {
+        "name": "ST04",
+        "title": "<a href=\"/node/1706251\">ST04</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706251,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95172455907,
+          -40.988651410851
+        ]
+      },
+      "properties": {
+        "name": "ST05",
+        "title": "<a href=\"/node/1706252\">ST05</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706252,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1606867200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94739877683,
+          -40.999577475406
+        ]
+      },
+      "properties": {
+        "name": "56",
+        "title": "<a href=\"/node/3217565\">56</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">02 Oct 2020</span>",
+        "nid": 3217565,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1608151500,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94751270121,
+          -41.00071975762
+        ]
+      },
+      "properties": {
+        "name": "56",
+        "title": "<a href=\"/node/3217569\">56</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">02 Oct 2020</span>",
+        "nid": 3217569,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1614816000,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94627548382,
+          -40.992703534705
+        ]
+      },
+      "properties": {
+        "name": "TR113",
+        "title": "<a href=\"/node/4172105\">TR113</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">10 Jul 2020</span>",
+        "nid": 4172105,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": null,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.951107651,
+          -40.987750441083
+        ]
+      },
+      "properties": {
+        "name": "CT01",
+        "title": "<a href=\"/node/1706253\">CT01</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706253,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1623807900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95388910174,
+          -40.987394858326
+        ]
+      },
+      "properties": {
+        "name": "CT02",
+        "title": "<a href=\"/node/1706254\">CT02</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706254,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95108585805,
+          -40.986088929421
+        ]
+      },
+      "properties": {
+        "name": "CT04",
+        "title": "<a href=\"/node/1706255\">CT04</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706255,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95624642819,
+          -40.986015027258
+        ]
+      },
+      "properties": {
+        "name": "CT03",
+        "title": "<a href=\"/node/1706256\">CT03</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706256,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619649000,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95239578187,
+          -40.984322847231
+        ]
+      },
+      "properties": {
+        "name": "CT05",
+        "title": "<a href=\"/node/1706257\">CT05</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706257,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95847567916,
+          -40.984341576346
+        ]
+      },
+      "properties": {
+        "name": "CT06",
+        "title": "<a href=\"/node/1706258\">CT06</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706258,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95375800878,
+          -40.982545834297
+        ]
+      },
+      "properties": {
+        "name": "CT07",
+        "title": "<a href=\"/node/1706259\">CT07</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706259,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95957940817,
+          -40.982419535736
+        ]
+      },
+      "properties": {
+        "name": "CT08",
+        "title": "<a href=\"/node/1706260\">CT08</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Aug 2019</span>",
+        "nid": 1706260,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95513042662,
+          -40.980510780792
+        ]
+      },
+      "properties": {
+        "name": "CT444",
+        "title": "<a href=\"/node/1867928\">CT444</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">08 Oct 2019</span>",
+        "nid": 1867928,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1626835380,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95927991881,
+          -40.985918630337
+        ]
+      },
+      "properties": {
+        "name": "T001",
+        "title": "<a href=\"/node/3418117\">T001</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">20 Nov 2020</span>",
+        "nid": 3418117,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95275801939,
+          -40.986756098278
+        ]
+      },
+      "properties": {
+        "name": "T02",
+        "title": "<a href=\"/node/4091288\">T02</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">27 Apr 2021</span>",
+        "nid": 4091288,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619654400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95577938855,
+          -40.981829042426
+        ]
+      },
+      "properties": {
+        "name": "DOCTEST01",
+        "title": "<a href=\"/node/4456656\">DOCTEST01</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">28 Jun 2021</span>",
+        "nid": 4456656,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1624836600,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9560007127,
+          -40.978997834523
+        ]
+      },
+      "properties": {
+        "name": "T102",
+        "title": "<a href=\"/node/4131581\">T102</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">04 May 2021</span>",
+        "nid": 4131581,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1625126400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95670173317,
+          -40.978019056559
+        ]
+      },
+      "properties": {
+        "name": "T103",
+        "title": "<a href=\"/node/4131586\">T103</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">04 May 2021</span>",
+        "nid": 4131586,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1625126400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.957276145,
+          -40.977190398209
+        ]
+      },
+      "properties": {
+        "name": "T104",
+        "title": "<a href=\"/node/4131588\">T104</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">04 May 2021</span>",
+        "nid": 4131588,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1620086400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95799212717,
+          -40.9762271924
+        ]
+      },
+      "properties": {
+        "name": "T105",
+        "title": "<a href=\"/node/4131600\">T105</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">04 May 2021</span>",
+        "nid": 4131600,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1620086400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95956725441,
+          -40.975527101722
+        ]
+      },
+      "properties": {
+        "name": "T107",
+        "title": "<a href=\"/node/4131659\">T107</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">04 May 2021</span>",
+        "nid": 4131659,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": null,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95880961418,
+          -40.97509481749
+        ]
+      },
+      "properties": {
+        "name": "T106",
+        "title": "<a href=\"/node/4478021\">T106</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">01 Jul 2021</span>",
+        "nid": 4478021,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": null,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.96126651764,
+          -40.972121971905
+        ]
+      },
+      "properties": {
+        "name": "X",
+        "title": "<a href=\"/node/3858637\">X</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">04 Mar 2021</span>",
+        "nid": 3858637,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": null,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95477403249,
+          -40.986619977015
+        ]
+      },
+      "properties": {
+        "name": "T1",
+        "title": "<a href=\"/node/3965467\">T1</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">30 Mar 2021</span>",
+        "nid": 3965467,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": null,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95388872685,
+          -40.988135518337
+        ]
+      },
+      "properties": {
+        "name": "TR melon",
+        "title": "<a href=\"/node/4023889\">TR melon</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">07 Apr 2021</span>",
+        "nid": 4023889,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1618439400,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95264932487,
+          -40.989582083048
+        ]
+      },
+      "properties": {
+        "name": "TR kumara ",
+        "title": "<a href=\"/node/4029555\">TR kumara </a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">15 Apr 2021</span>",
+        "nid": 4029555,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1620594900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95222041441,
+          -40.990428818823
+        ]
+      },
+      "properties": {
+        "name": "TR mint",
+        "title": "<a href=\"/node/4029564\">TR mint</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">15 Apr 2021</span>",
+        "nid": 4029564,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1624417200,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95392505855,
+          -40.989183615391
+        ]
+      },
+      "properties": {
+        "name": "TR pumpkin",
+        "title": "<a href=\"/node/4029574\">TR pumpkin</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">15 Apr 2021</span>",
+        "nid": 4029574,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1620594900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95334318832,
+          -40.989608917375
+        ]
+      },
+      "properties": {
+        "name": "TR onion",
+        "title": "<a href=\"/node/4029595\">TR onion</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">15 Apr 2021</span>",
+        "nid": 4029595,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1620594900,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95485075991,
+          -40.988152690685
+        ]
+      },
+      "properties": {
+        "name": "TR radish",
+        "title": "<a href=\"/node/4029643\">TR radish</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">15 Apr 2021</span>",
+        "nid": 4029643,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1618440300,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95714664459,
+          -40.983186359107
+        ]
+      },
+      "properties": {
+        "name": "H",
+        "title": "<a href=\"/node/4040802\">H</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">17 Apr 2021</span>",
+        "nid": 4040802,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": 1619649000,
+        "field_time_out": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.95569825172,
+          -40.979614582158
+        ]
+      },
+      "properties": {
+        "name": "CT09",
+        "title": "<a href=\"/node/4418393\">CT09</a>",
+        "description": null,
+        "Date installed": "<span class=\"date-display-single\">21 Jun 2021</span>",
+        "nid": 4418393,
+        "kill_color": "#00FF00",
+        "field_sensor_id": null,
+        "field_sensor_provider": null,
+        "field_record_date": null,
+        "field_record_date_1": null,
+        "field_event": null,
+        "field_sensor_status": null,
+        "field_counter": null,
+        "field_sequence": null,
+        "field_rssi": null,
+        "field_signal_to_noise_ratio": null,
+        "field_tilt_sensor": null,
+        "field_battery_voltage": null,
+        "todays_datetime": 1628817094,
+        "field_trap_record_date": null,
+        "field_time_out": null
+      }
+    }
+  ]
+}
